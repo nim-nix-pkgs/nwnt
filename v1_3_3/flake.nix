@@ -11,6 +11,7 @@
   inputs.src-nwnt-v1_3_3.ref   = "refs/tags/v1.3.3";
   inputs.src-nwnt-v1_3_3.owner = "WilliamDraco";
   inputs.src-nwnt-v1_3_3.repo  = "NWNT";
+  inputs.src-nwnt-v1_3_3.dir   = "";
   inputs.src-nwnt-v1_3_3.type  = "github";
   
   inputs."neverwinter".owner = "nim-nix-pkgs";
